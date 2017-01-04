@@ -1,0 +1,1 @@
+0 0 * * 1-5 /usr/share/elastic-backup/backup.sh >> /usr/share/elastic-backup/elastic-backup.log 2>&1
